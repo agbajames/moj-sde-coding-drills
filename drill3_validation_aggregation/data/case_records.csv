@@ -1,0 +1,11 @@
+case_id,court,status,received_date
+C1001,Manchester Crown Court,received,2026-07-20
+C1002,Leeds Magistrates Court,in_progress,2026-07-21
+C1003,Manchester Crown Court,closed,2026-07-19
+C1004,,received,2026-07-22
+C1005,Leeds Magistrates Court,archived,2026-07-20
+C1006,Birmingham Crown Court,IN_PROGRESS,2026-07-23
+C1007,Birmingham Crown Court,closed,21-07-2026
+C1008,Manchester Crown Court,received,2026-07-24
+,Leeds Magistrates Court,received,2026-07-24
+C1010,Leeds Magistrates Court,closed,2026-07-18

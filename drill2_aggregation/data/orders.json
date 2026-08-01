@@ -1,0 +1,12 @@
+[
+  {"order_id": "O001", "region": "London", "product": "Widget", "revenue": 120.50},
+  {"order_id": "O002", "region": "Manchester", "product": "Gadget", "revenue": 75.00},
+  {"order_id": "O003", "region": "London", "product": "Gizmo", "revenue": 210.25},
+  {"order_id": "O004", "region": "Leeds", "product": "Widget", "revenue": 60.00},
+  {"order_id": "O005", "region": "Manchester", "product": "Widget", "revenue": 95.75},
+  {"order_id": "O006", "region": "London", "product": "Gadget", "revenue": 40.00},
+  {"order_id": "O007", "region": "Leeds", "product": "Gizmo", "revenue": 130.00},
+  {"order_id": "O008", "region": "Manchester", "product": "Gizmo", "revenue": 55.50},
+  {"order_id": "O009", "region": "London", "product": "Widget", "revenue": 88.00},
+  {"order_id": "O010", "region": "Leeds", "product": "Gadget", "revenue": 25.00}
+]
